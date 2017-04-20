@@ -29,7 +29,7 @@ Check out the [examples](http://react-day-picker.js.org/examples) to see its fea
 **Installing via npm**
 
 ```
-npm install react-day-picker --save
+npm install kat-day-picker --save
 ```
 
 **Using unpkg CDN**
@@ -41,7 +41,7 @@ npm install react-day-picker --save
 **Installing via Bower**
 
 ```
-bower install react-day-picker --save
+bower install kat-day-picker --save
 ```
 
 The bower package exposes a global `DayPicker` variable.

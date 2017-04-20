@@ -14,7 +14,6 @@
     ]
   ],
   "_from": "react-day-picker@>=3.1.1 <4.0.0",
-  "_id": "react-day-picker@3.1.1",
   "_inCache": true,
   "_location": "/react-day-picker",
   "_nodeVersion": "6.8.0",
@@ -45,10 +44,7 @@
   "_shrinkwrap": null,
   "_spec": "react-day-picker@^3.1.1",
   "_where": "/Users/dixy/GitHub/kat-projects/kat-client",
-  "author": {
-    "name": "Giampaolo Bellavite",
-    "email": "io@gpbl.org"
-  },
+  "author": "Giampaolo Bellavite <io@gpbl.org>",
   "browser": "./dist/DayPicker.js",
   "bugs": {
     "url": "https://github.com/gpbl/react-day-picker/issues"
@@ -103,7 +99,6 @@
     "moment.js",
     "utils.js"
   ],
-  "gitHead": "eaebaf4f6b06bb398fba3843a4dd2ca3b23816d2",
   "homepage": "https://react-day-picker.js.org",
   "keywords": [
     "react",
@@ -117,20 +112,16 @@
     "moment",
     "momentjs"
   ],
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE",
   "main": "DayPicker.js",
   "maintainers": [
-    {
-      "name": "gpbl",
-      "email": "io@gpbl.org"
-    }
+    "gpbl <io@gpbl.org>"
   ],
-  "name": "react-day-picker",
+  "name": "dixy",
   "optionalDependencies": {},
   "peerDependencies": {
     "react": "~0.13.x || ~0.14.x || ^15.0.0"
   },
-  "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/gpbl/react-day-picker.git"
@@ -155,5 +146,5 @@
     "test:watch": "npm test -- --watch"
   },
   "style": "lib/style.css",
-  "version": "3.1.1"
+  "version": "0.0.1"
 }
