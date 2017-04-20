@@ -146,5 +146,5 @@
     "test:watch": "npm test -- --watch"
   },
   "style": "lib/style.css",
-  "version": "0.0.1"
+  "version": "0.0.4"
 }
